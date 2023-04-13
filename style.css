@@ -7,28 +7,41 @@ body{
 
 h1{
     color: aliceblue;
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Roboto';font-size: 22px;
 }
+
 img{
     border-radius: 20px;
 }
 
-div ul {
-    display: inline;
+ 
    
     
     
 
 
-}
-div ul a{
+
+footer ul a{
 
     color: blue;
-    padding: 10px;
     text-decoration: none;
+    
   
     
 }
+
+   footer ul {
+    display: inline;}
+
+   footer {
+
+    padding-top: 100px;
+   }
+
+  
+
+    
+   
 
     
 nav {
